@@ -1,0 +1,102 @@
+[
+  {
+	"ID": "001",
+	"Name": "Samsung Galaxy S8",
+	"Price": "18.490.000",
+	"Image": "../Image/samsung/galaxys8.jpg",
+	"screen": "Màn hình: 5.8 Inch, AMOLED",
+	"cpu": "CPU: Android 7.0 Exynos",
+	"ram": "RAM: 4 GB, ROM: 64 GB",
+	"camera": "Camera: 2 camera 12 MP, Selfie: 8 MP",
+	"pin12": "PIN: 3000mAh"
+
+  },
+  {
+	"ID": "002",
+	"Name": "Samsung Galaxy A7",
+	"Price": "9.990.000",
+	"Image": "../Image/samsung/galaxya7.jpg",
+	"screen": "Màn hình: 5.7 Inch, AMOLED",
+	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	"ram": "RAM: 3 GB, ROM: 32 GB",
+	"camera": "Camera: 2 camera 16 MP, Selfie: 16 MP",
+	"pin12": "PIN: 3600mAh"
+  },
+  {
+	"ID": "003",
+	"Name": "Samsung Galaxy C9 Pro",
+	"Price": "11.490.000",
+	"Image": "../Image/samsung/galaxyc9pro.jpg",
+	"screen": "Màn hình: 6 Inch, AMOLED",
+	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	"ram": "RAM: 6 GB, ROM: 64 GB",
+	"camera": "Camera: 2 camera 16 MP, Selfie: 16 MP",
+	"pin12": "PIN: 4000mAh"
+  },
+  {
+	"ID": "004",
+	"Name": "Samsung Galaxy J3 LTE",
+	"Price": "2.990.000",
+	"Image": "../Image/samsung/galaxyj3lte.jpg",
+	"screen": "Màn hình: 5 Inch, AMOLED",
+	"cpu": "CPU: Android 5.1 (Lollipop)",
+	"ram": "RAM: 1.5 GB, ROM: 8 GB",
+	"camera": "Camera: 2 camera 8 MP, Selfie: 5 MP",
+	"pin12": "PIN: 2600mAh"
+  },
+  {
+	"ID": "005",
+	"Name": "Samsung Galaxy J7+",
+	"Price": "8.690.000",
+	"Image": "../Image/samsung/galaxyj7.jpg",
+	"screen": "Màn hình: 5.5 Inch, AMOLED",
+	"cpu": "CPU: Android 7.0 (Mediatek Helio)",
+	"ram": "RAM: 4 GB, ROM: 32 GB",
+	"camera": "Camera: 2 camera 13 MP,Selfie: 5 MP",
+	"pin12": "PIN: 3000mAh"
+  },
+  {
+	"ID": "006",
+	"Name": "Samsung Galaxy S8 Plus",
+	"Price": "20.490.000",
+	"Image": "../Image/samsung/galaxys8s.jpg",
+	"screen": "Màn hình: 6.2 Inch, AMOLED",
+	"cpu": "CPU: Android 7.0 (Exynos)",
+	"ram": "RAM: 4 GB, ROM: 64 GB",
+	"camera": "Camera: 2 camera 12 MP, Selfie: 8 MP",
+	"pin12": "PIN: 3500mAh"
+  },
+  {
+	"ID": "007",
+	"Name": "Samsung Galaxy A5",
+	"Price": "7.990.000",
+	"Image": "../Image/samsung/galaxya5.jpg",
+	"screen": "Màn hình: 5.2 Inch, AMOLED",
+	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	"ram": "RAM: 3 GB, ROM: 32 GB",
+	"camera": "Camera: 2 camera 16 MP,Selfie: 16 MP",
+	"pin12": "PIN: 3300mAh"
+  },
+  {
+	"ID": "008",
+	"Name": "Samsung Galaxy J7 Prime",
+	"Price": "5.490.000",
+	"Image": "../Image/samsung/galaxyj7p.jpg",
+	"screen": "Màn hình: 5.5 Inch, PLS TFT LCD",
+	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	"ram": "RAM: 3 GB, ROM: 32 GB",
+	"camera": "Camera: 2 camera 13 MP,Selfie: 8 MP",
+	"pin12": "PIN: 3300mAh"
+  },
+  {
+	"ID": "009",
+	"Name": "Samsung Galaxy J7 Pro",
+	"Price": "6.990.000",
+	"Image": "../Image/samsung/galaxyj7pr.jpg",
+	"screen": "Màn hình: 5.5 Inch, AMOLED",
+	"cpu": "CPU: Android 7.0 (Exynos)",
+	"ram": "RAM: 3 GB, ROM: 32 GB",
+	"camera": "Camera: 2 camera 13 MP,Selfie: 13 MP",
+	"pin12": "PIN: 3600mAh"
+  }
+]

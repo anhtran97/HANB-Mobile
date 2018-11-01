@@ -1,0 +1,102 @@
+[
+	{
+	  "ID": "001",
+	  "Name": "iPad Pro 64GB (2017)",
+	  "Price": "19.990.000",
+	  "Image": "../Image/tablet/ipadpro10.5.jpg",
+	  "screen":"Màn hình: 10.5 Inch, LED backlit LCD",
+	  "cpu":"CPU: Apple A10X (iOS 10)",
+	  "ram":"RAM: 4 GB, ROM: 64 GB",
+	  "camera":"Camera: 2 camera 12 MP,Selfie: 7 MP",
+	  "pin12":"PIN: Đang cập nhật"
+
+	},
+	{
+		"ID": "002",
+		"Name": "iPad Pro 32GB",
+		"Price": "11.990.000",
+		"Image": "../Image/tablet/ipadpro97.jpg",
+	  	"screen": "Màn hình: 9.7 Inch, LED backlit LCD",
+	  	"cpu": "CPU: Apple A9X (iOS 10)",
+	  	"ram": "RAM: 2 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+	  	"pin12": "PIN: Đang cập nhật"
+	},
+	{
+		"ID": "003",
+		"Name": "iPad Wifi 32GB (2017)",
+		"Price": "8.990.000",
+		"Image": "../Image/tablet/ipadwifi2017.jpg",
+	  	"screen": "Màn hình: 9.7 Inch, LED backlit LCD",
+	  	"cpu": "CPU: Apple A9 (iOS 10)",
+	  	"ram": "RAM: 3 GB, ROM: 256 GB",
+	  	"camera": "Camera: 2 camera 8 MP, Selfie: 1.2 MP",
+	 	 "pin12": "PIN: Đang cập nhật"
+	},
+  	{
+		"ID": "004",
+		"Name": "Samsung Galaxy Book",
+		"Price": "19.990.000",
+		"Image": "../Image/tablet/ssgalaxybook.jpg",
+	  	"screen": "Màn hình: 10.6 Inch, TFT LCD",
+	  	"cpu": "CPU: Windows 10 Home",
+	  	"ram": "RAM: 4 GB, ROM: 128 GB",
+		"camera": "Camera selfie: 5 MP",
+	  	"pin12": "PIN: 4000mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "Samsung Galaxy Tab E",
+	  "Price": "4.990.000",
+	  "Image": "../Image/tablet/ssgalaxytabe.jpg",
+	  "screen": "Màn hình: 9.6 Inch, TFT LCD",
+	  "cpu": "CPU: Android 4.4",
+	  "ram": "RAM: 1.5 GB, ROM: 8 GB",
+	  "camera": "Camera: 2 camera 5 MP, Selfie: 2 MP",
+	  "pin12": "PIN: 5000mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "Samsung Galaxy Tab A6",
+	  "Price": "3.590.000",
+	  "Image": "../Image/tablet/ssgalaxytaba6.jpg",
+	  "screen": "Màn hình: 7 Inch, TFT LCD",
+	  "cpu": "CPU: Android 5.1",
+	  "ram": "RAM: 1.5 GB, ROM: 8 GB",
+	  "camera": "Camera: 2 camera 5 MP, Selfie: 2 MP",
+	  "pin12": "PIN: 4000mAh"
+	},
+	{
+	  "ID": "007",
+	  "Name": "Huawei MediaPad M3",
+	  "Price": "6.990.000",
+	  "Image": "../Image/tablet/huawei-mediapad-m3-8.jpg",
+	  "screen": "Màn hình: 8 Inch, IPS LCD",
+	  "cpu": "CPU: Android 7.0",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 8 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 4800mAh"
+	},
+	{
+	  "ID": "008",
+	  "Name": "Huawei MediaPad T1",
+	  "Price": "2.990.000",
+	  "Image": "../Image/tablet/Huawei-MediaPad-T1-8.0.jpg",
+	  "screen": "Màn hình: Android 4.3 (ARM Cortex A7)",
+	  "cpu": "CPU: Apple A11 Bionic 6 nhân",
+	  "ram": "RAM: 1 GB, ROM: 8 GB",
+	  "camera": "Camera: 2 camera 5 MP, Selfie: 0.3 MP",
+	  "pin12": "PIN: 4800mAh"
+	},
+	{
+	  "ID": "009",
+	  "Name": "Huawei MediaPad T3",
+	  "Price": "4.990.000",
+	  "Image": "../Image/tablet/huawei-mediapad-t3.jpg",
+	  "screen": "Màn hình: 9.6 Inch, PLS LCD",
+	  "cpu": "CPU: Android 7.0",
+	  "ram": "RAM: 2 GB, ROM: 16 GB",
+	  "camera": "Camera: 2 camera 5 MP, Selfie: 2 MP",
+	  "pin12": "PIN: 4800mAh"
+	}
+]

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        HANB - Siêu thị điện thoại, Tablet, Phụ kiện.
+    </title>
+    <link rel="shortcut icon" href="../Image/icon_title.png" type="image/x-icon" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../JS/jquery-3.2.1.min.js"></script>
+    <link href="../CSS/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../CSS/css.css">
+    <link rel="stylesheet" href="../CSS/hover.css">
+    <script language="JavaScript" src="../JS/angular.min.js"></script>
+    <script src="../JS/iphone.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myController">
+<!--header-->
+<header ng-include="'../Common/angular_header.html'"></header>
+
+<!--body-->
+<h2 class="text-center">Mua Hàng</h2>
+<div class="container">
+    <table id="cart" class="table table-hover table-condensed">
+        <thead>
+        <tr>
+            <th style="width:50%">Tên sản phẩm</th>
+            <th style="width:10%">Giá</th>
+            <th style="width:8%">Số lượng</th>
+            <th style="width:22%" class="text-center">Thành tiền</th>
+            <th style="width:10%"> </th>
+        </tr>
+        </thead>
+        <tbody><tr id="sanpham">
+            <td data-th="Product" >
+                <div class="row">
+                    <div class="col-sm-7 hidden-xs"><img src="../Image/iphone_p/ip7_32g.jpg" alt="Sản phẩm 1" class="img-responsive" width="300">
+                    </div>
+                    <div class="col-sm-5">
+                        <h4 class="nomargin">iPhone 7plus 32G</h4>
+                        <!--<p>Mô tả của sản phẩm 1</p>-->
+                    </div>
+                </div>
+            </td>
+            <td data-th="Price" id="gia">17990000đ</td>
+            <td data-th="Quantity"><input id="soluong" class="form-control text-center" min="1" value="1" type="number" oninput="sum()">
+            </td>
+            <td data-th="Subtotal" class="text-center" id="tong">17990000đ</td>
+            <td class="actions" data-th="">
+                <button class="btn btn-info btn-sm"><i class="fa fa-edit"></i>
+                </button>
+                <button class="btn btn-danger btn-sm" onclick="xoa()"><i class="fa fa-trash-o"></i>
+                </button>
+            </td>
+        </tr>
+        </tbody><tfoot>
+    <tr>
+        <td><a href="" class="btn btn-warning"><i class="fa fa-angle-left"></i> Tiếp tục mua hàng</a>
+        </td>
+        <td colspan="2" class="hidden-xs"> </td>
+        <!--<td class="hidden-xs text-center"  id="tong" ><strong></strong>-->
+        </td>
+        <td><a href="../Page/index.html" class="btn btn-success btn-block" id="show">Thanh toán <i class="fa fa-angle-right"></i></a></td>
+
+    </tr>
+    </tfoot>
+    </table>
+
+</div>
+
+<!-- Fotter -->
+<footer ng-include="'../Common/angular_footer.html'"></footer>
+<img class="back-to-top" src="../Image/back-to-top.png">
+<script>
+    function sum(){
+        var a = $("#gia").text().replace('.','').replace('đ','');
+        var b = $("#soluong").val();
+        var tong = a*b;
+        $("#tong").html(tong + 'đ');
+    }
+    function xoa(){
+        $("#sanpham").fadeOut();
+    }
+</script>
+</body>
+</html>

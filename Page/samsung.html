@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HANB - Siêu thị điện thoại, Tablet, Phụ kiện.</title>
+    <link rel="shortcut icon" href="../Image/icon_title.png" type="image/x-icon" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../JS/jquery-3.2.1.min.js"></script>
+    <link href="../CSS/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../CSS/css.css">
+    <script language="JavaScript" src="../JS/angular.min.js"></script>
+    <script src="../JS/samsung.js"></script>
+    <script src="../JS/JS.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script src="../JS/bootstrap.js"></script>
+    <script language="JavaScript" src="../JS/angular.min.js"></script>
+
+</head>
+<body style="background-color:#FFF;" data-spy="scroll" data-target=".navbar" ng-app="myApp" ng-controller="myController">
+<!--header-->
+<header ng-include="'../Common/angular_header.html'"></header>
+
+<!--body-->
+<div class="container">
+    <div class="row sanpham">
+        <div class="col-md-4 " ng-repeat="samsung in list">
+            <div class="mx-auto text-center card">
+                <div class="hovereffect">
+                    <img src="{{samsung.Image}}" alt="Card image cap" width="300" height="300">
+                    <div class="overlay">
+                        <figure class="bginfo">
+                            <p>{{samsung.screen}}</p>
+                            <p>{{samsung.cpu}}</p>
+                            <p>{{samsung.ram}}</p>
+                            <p>{{samsung.camera}}</p>
+                            <p>{{samsung.pin12}}</p>
+                        </figure>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title"> {{samsung.Name}} </h4>
+                        <h5 class="card-text"> Giá: {{samsung.Price}}đ </h5>
+                        <a href="#" class="btn btn-primary">Mua ngay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Fotter -->
+<footer ng-include="'../Common/angular_footer.html'"></footer>
+</body>
+</html>

@@ -1,0 +1,102 @@
+[
+	{
+	  "ID": "001",
+	  "Name": "HTC 10 Evo",
+	  "Price": "4.990.000",
+	  "Image": "../Image/hangkhac/Htc10evo.jpg",
+	  "screen": "Màn hình: 5.5 Inch, Super LCD 3",
+	  "cpu": "CPU: Snapdragon 810",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 3200mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "HTC U11",
+		"Price": "16.990.000",
+		"Image": "../Image/hangkhac/HtcU11.jpg",
+	  	"screen": "Màn hình: 5.5 Inch, Super LCD",
+	  	"cpu": "CPU: Snapdragon 835",
+	  	"ram": "RAM: 6 GB, ROM: 128 GB",
+	  	"camera": "Camera: 2 camera 12 MP, Selfie: 16 MP",
+	  	"pin12": "PIN: 3000mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "HTC U Ultra",
+		"Price": "12.990.000",
+		"Image": "../Image/hangkhac/HtcUultra.jpg",
+	  	"screen": "Màn hình: 5.7 Inch, Super LCD",
+	  	"cpu": "CPU: Snapdragon 821",
+	  	"ram": "RAM: 4 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 12 MP, Selfie: 16 MP",
+	  	"pin12": "PIN: 3000mAh"
+	},
+  	{
+		"ID": "004",
+		"Name": "Nokia 5",
+		"Price": "4.260.000",
+		"Image": "../Image/hangkhac/nokia5.jpg",
+	  	"screen": "Màn hình: 5.2 Inch, IPS LCD",
+	  	"cpu": "CPU: Snapdragon 430",
+	  	"ram": "RAM: 2 GB, ROM: 16 GB",
+	  	"camera": "Camera: 2 camera 13 MP, Selfie: 8 MP",
+	  	"pin12": "PIN: 3000mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "Nokia 6",
+	  "Price": "5.590.000",
+	  "Image": "../Image/hangkhac/nokia6.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 430",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 3000mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "Nokia 8",
+	  "Price": "12.990.000",
+	  "Image": "../Image/hangkhac/nokia8.jpg",
+	  "screen": "Màn hình: 5.3 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 835",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 13 MP",
+	  "pin12": "PIN: 3090mAh"
+	},
+	{
+	  "ID": "007",
+	  "Name": "Asus Zenfone 4 Max Pro",
+	  "Price": "16.990.000",
+	  "Image": "../Image/hangkhac/asus1.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 430",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 16 MP",
+	  "pin12": "PIN: 5000mAh"
+	},
+	{
+	  "ID": "008",
+	  "Name": "Asus Zenfone Live",
+	  "Price": "2.090.000",
+	  "Image": "../Image/hangkhac/asus3.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 400",
+	  "ram": "RAM: 2 GB, ROM: 16 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 2650mAh"
+	},
+	{
+	  "ID": "009",
+	  "Name": "Asus Zenfone 2 Go",
+	  "Price": "1.990.000",
+	  "Image": "../Image/hangkhac/asus4.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 200",
+	  "ram": "RAM: 1 GB, ROM: 8 GB",
+	  "camera": "Camera: 2 camera 8 MP,Selfie: 2 MP",
+	  "pin12": "PIN: 2600mAh"
+	}
+]

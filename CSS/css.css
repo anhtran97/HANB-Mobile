@@ -1,0 +1,588 @@
+
+i.fa-arrow-circle-o-up
+{
+    color:#fff;
+    font-size:30px;
+}
+
+i.fa-arrow-circle-o-up:hover
+
+{
+    color: #3A56F2;
+    transition: color 1s;
+}
+
+i.fa-circle
+{
+    color:#fff;
+}
+
+i.fa-facebook,i.fa-youtube,i.fa-twitter,i.fa-instagram,i.fa-google-plus
+{
+    color: black;
+    cursor: pointer;
+}
+
+a.ec_fevicon
+{
+    color:#fff;
+}
+
+a.name
+{
+    color:#fff;
+}
+
+a.ec_fevicon:hover
+{
+    cursor:pointer;
+    text-decoration: none;
+    color: #e15616;
+    transition: color 2s;
+}
+
+a.name:hover
+{
+    cursor:pointer;
+    text-decoration: none;
+    color: #3A56F2;
+    transition: color 2s;
+}
+
+.contact
+{
+    color:black;
+    text-align: left;
+}
+.navbar-inverse .navbar-nav>li>a:hover
+{
+    color: #fff;
+    transition: color 1s;
+    opacity:1.0;
+}
+
+.navbar-inverse .navbar-nav>li>a
+{
+    color: #fff;
+    opacity:0.8;
+}
+
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img
+{
+    width: 70%;
+    margin: auto;
+}
+
+/* Gallry */
+div.img
+{
+    border: 2px solid #ccc;
+}
+
+.img:hover
+{
+    border:2px solid #e15616;
+    transition: border 0.9s;
+    cursor: pointer;
+}
+
+div.img img
+{
+    width: 100%;
+    height: auto;
+}
+
+div.desc
+{
+    padding: 15px;
+    text-align: center;
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+.responsive
+{
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+.btn-success
+{
+    background-color: #e15616;
+    color: #fff;
+    border:1px solid #e15616;
+}
+
+.btn-success:hover
+{
+    box-shadow: 5px 5px 12px #eee;
+    background-color:#fff;
+    border:1px solid #e15616;
+    color:#e15616;
+}
+
+@media only screen and (max-width: 700px)
+{
+    .responsive
+    {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+button.btn-info
+{
+    background-color: #222;
+    opacity: 0.8;
+}
+
+button.btn-info:hover
+{
+    background-color:#fff;
+    color:#000;
+    border:1px solid #000;
+    box-shadow: 2px 2px 10px #eee;
+}
+
+.navbar-inverse, .navbar-inverse
+{
+    border:none;
+    background-color:#3A56F2;
+}
+
+a.carousel-control:hover
+{
+    color:#e15616;
+    transition: color 0.9s;
+}
+
+
+/* End Gallery */
+
+h3.sub-name
+{
+    color:#3a56f2;
+}
+
+input[type=text]
+{
+    width: 140px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 6px 35px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=tex]
+{
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 9px 35px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+
+
+input[type=text]:focus {
+    width: 100%;
+}
+input[type=tex]:focus
+{
+    width: 30%;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover
+{
+    background-color:#fff;
+    color:#3a56f2;
+}
+
+span.glyphicon-chevron-left,span.glyphicon-chevron-right
+{
+    color:#3A56F2
+}
+
+body
+{
+    position: relative;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.affix
+{
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.navbar
+{
+    margin-bottom: 0px;
+}
+
+.affix ~ .container-fluid
+{
+    position: affix!important;
+    top: 50px;
+}
+
+@media screen and (min-width: 668px)
+{
+    ul.navbar-nav
+    {
+        display: none`;
+    }
+}
+
+button.btn-default
+{
+    border:1px solid #3A56F2;
+}
+
+button.btn-default:hover
+{
+    background-color: #3A56F2;
+    color: #fff;
+}
+
+button.btn-primary
+{
+    background-color: #3A56F2;
+}
+
+button.btn-primary:hover
+{
+    background-color: #fff;
+    border:1px solid #3A56F2;
+}
+
+
+
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #fff;}
+#section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+#section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+#section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+/* My style */
+/* Navigation bar*/
+.mynav{ background-color: #008b8b;}
+.mynav .navbar-nav .nav-link{ color: #c7e5e5; font-weight: bold; padding-right: 50px}
+.mynav .navbar-nav .active>.nav-link{color: white;}
+.mynav .navbar-nav .nav-link:hover{color: white;}
+
+
+
+i.fa-arrow-circle-up
+{
+    display:none;
+}
+
+/* slideshare */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img
+{
+    width: 70%;
+    margin: auto;
+}
+
+.logo {
+    position: absolute;
+    left: 0px;
+    top: -12px;
+}
+
+.imgshipper {
+    position: absolute;
+    left: 900px;
+    top: 15px;
+}
+
+.shiper {
+    position: absolute;
+    left: 960px;
+    top: 32px;
+}
+
+.imgcskh {
+    position: absolute;
+    left: 1140px;
+    top: 15px;
+}
+
+.cskh {
+    position: absolute;
+    left: 1200px;
+    top: 20px;
+}
+
+.logoend {
+    border-radius: 10%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 20px;
+    top: -70px;
+}
+.sanpham .card{
+    border: none;
+    /*background-color: #f5f5f5;*/
+
+}
+.top p{
+    color: darkred;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.sanpham .card:hover{box-shadow: 0px 0px 10px gray;
+    transition: box-shadow 0.7s;cursor: pointer;}
+.back-to-top{
+    height: 50px;
+    width: 70px;
+    position: fixed;
+    bottom: 170px;
+    right:30px;
+}
+.card-title .mausidebar{
+    color: #ffffff;
+}
+.card-title .maunavbar{
+    color: #000000;
+}
+.bg-primary{
+    background-color: #337ab7!important;
+    border-color: #337ab7!important;
+}
+h3{
+    font-size: 19px!important;
+    font-family: inherit!important;
+
+}
+.container .col-md-9 p{
+    font-size: 15px!important;
+    font-family: inherit!important;
+}
+/*.card-header{*/
+    /*padding: 10px 15px;*/
+    /*border-bottom:olid 1px transparent;*/
+    /*border-top-left-radius: 3px!important;*/
+    /*border-top-right-radius: 3px!important;*/
+/*}*/
+.card-body{
+    padding: 15px!important;
+
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.mynav{
+    padding: 0px 16px!important;
+}
+fieldset
+{
+    /*border: 1px solid #ddd !important;*/
+    margin: 0;
+    min-width: 0;
+    padding: 10px;
+    position: relative;
+    border-radius:4px;
+    /*background-color:#f5f5f5;*/
+    padding-left:10px!important;
+}
+
+legend
+{
+    font-size:30px;
+    font-weight:bold;
+    margin-bottom: 0px;
+    width: 35%;
+    /*border: 1px solid #ddd;*/
+    border-radius: 4px;
+    padding: 5px 5px 5px 10px;
+    /*background-color: #f5f5f5;*/
+}
+.abc{
+    margin-right: 50px;
+}
+.form-inline{
+    margin-right: 166px;
+
+}
+
+
+.red{
+    color:red;
+}
+.form-area
+{
+    background-color: #FAFAFA;
+    padding: 10px 40px 60px;
+    margin: 10px 0px 60px;
+    border: 1px solid GREY;
+}
+.justify-content-center{
+    margin-left: 29px;
+
+}
+/*CSS gio hang*/
+@media screen and (max-width: 600px) {
+    table#cart tbody td .form-control {
+        width: 20%;
+        display: inline !important;
+    }
+
+    .actions .btn {
+        width: 36%;
+        margin: 1.5em 0;
+    }
+
+    .actions .btn-info {
+        float: left;
+    }
+
+    .actions .btn-danger {
+        float: right;
+    }
+
+    table#cart thead {
+        display: none;
+    }
+
+    table#cart tbody td {
+        display: block;
+        padding: .6rem;
+        min-width: 320px;
+    }
+
+    table#cart tbody tr td:first-child {
+        background: #fff;
+        color:
+    }
+
+    table#cart tbody td:before {
+        content: attr(data-th);
+        font-weight: bold;
+        display: inline-block;
+        width: 8rem;
+    }
+
+    table#cart tfoot td {
+        display: block;
+    }
+
+    table#cart tfoot td .btn {
+        display: block;
+    }
+    .col-xs-10{
+        display: none;
+    }
+}
+
+/*CSS moi*/
+
+.hovereffect {
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    cursor: default;
+}
+
+.hovereffect .overlay {
+    position: absolute;
+    overflow: hidden;
+    width: 300px;
+    height: 400px;
+    left: 8%;
+    top: 3%;
+
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(0,1);
+    -ms-transform: scale(0,1);
+    transform: scale(0,1);
+}
+
+.hovereffect:hover .overlay {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.hovereffect img {
+    position: relative;
+    -webkit-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+    filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="linear" slope="0.6" /><feFuncG type="linear" slope="0.6" /><feFuncB type="linear" slope="0.6" /></feComponentTransfer></filter></svg>#filter');
+    filter: brightness(0.6);
+    -webkit-filter: brightness(0.6);
+}
+.hovereffect p  {
+    color: #FFF;
+    padding: 1em 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(0,100%,0);
+    transform: translate3d(0,100%,0);
+}
+.hovereffect:hover p {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+.hovereffect p {
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    font-size: 13px;
+    background-color: transparent;
+    color: white;
+    padding: 1em 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(0,-100%,0);
+    transform: translate3d(0,-100%,0);
+}
+.hovereffect {font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 1.2;
+    color: #666;
+}
+.card-text{
+    color: #000000 !important;
+}
+
+.text-fieldset{
+    text-align: center;
+    color: #008B8B;
+}

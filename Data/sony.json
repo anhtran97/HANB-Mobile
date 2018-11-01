@@ -1,0 +1,102 @@
+[
+	{
+	  "ID": "001",
+	  "Name": "Sony Xperia XZ Premium",
+	  "Price": "17.990.000",
+	  "Image": "../Image/sony/xperia-xz.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Android 7.1",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 19 MP, Selfie: 13 MP",
+	  "pin12": "PIN: 3230mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "Sony Xperia XZ1",
+		"Price": "15.990.000",
+		"Image": "../Image/sony/xperia-xz1.jpg",
+	  	"screen": "Màn hình: 5.2 Inch, IPS HDR LCD",
+	  	"cpu": "CPU: Android 8.0",
+	  	"ram": "RAM: 4 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 19 MP, Selfie: 13 MP",
+	  	"pin12": "PIN: 2700mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "Sony Xperia XZs",
+		"Price": "12.990.000",
+		"Image": "../Image/sony/xperia-xzs.jpg",
+	  	"screen": "Màn hình: 5.2 Inch, IPS LCD",
+	  	"cpu": "CPU: Android 7.0",
+	  	"ram": "RAM: 4 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 19 MP, Selfie: 13 MP",
+	  	"pin12": "PIN: 2900mAh"
+	},
+  	{
+		"ID": "004",
+		"Name": "Sony Xperia X",
+		"Price": "7.490.000",
+		"Image": "../Image/sony/xperia-x.jpg",
+	  	"screen": "Màn hình: 5 Inch, IPS LCD",
+	  	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	  	"ram": "RAM: 3 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 23 MP, Selfie: 13 MP",
+	  	"pin12": "PIN: 2620mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "Sony Xperia XA1 Plus",
+	  "Price": "7.190.000",
+	  "Image": "../Image/sony/xperia-xa1s.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Android 7.0",
+	  "ram": "RAM: 4 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 23 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 3430mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "Sony Xperia XA Ultra",
+	  "Price": "6.990.000",
+	  "Image": "../Image/sony/xperia-xaul.jpg",
+	  "screen": "Màn hình: 6 Inch, IPS LCD",
+	  "cpu": "CPU: Helio P10",
+	  "ram": "RAM: 3 GB, ROM: 16 GB",
+	  "camera": "Camera: 2 camera 21.5 MP, Selfie: 16 MP",
+	  "pin12": "PIN: 2700mAh"
+	},
+	{
+	  "ID": "007",
+	  "Name": "Sony Xperia XA1",
+	  "Price": "5.790.000",
+	  "Image": "../Image/sony/xperia-xa1.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Mediatek Helio P20",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 23 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 2300mAh"
+	},
+	{
+	  "ID": "008",
+	  "Name": "Sony Xperia L1",
+	  "Price": "2.090.000",
+	  "Image": "../Image/sony/xperia-l1.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: MT6737T",
+	  "ram": "RAM: 2 GB, ROM: 16 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 2620mAh"
+	},
+	{
+	  "ID": "009",
+	  "Name": "Sony Xperia XZ Dual",
+	  "Price": "9.990.000",
+	  "Image": "../Image/sony/xperia-xzd.jpg",
+	  "screen": "Màn hình: 5.2 Inch, TRILUMINOS",
+	  "cpu": "CPU: Android 7.0",
+	  "ram": "RAM: 3 GB, ROM: 64 GB",
+	  "camera": "Camera: 23 camera 12 MP, Selfie: 13 MP",
+	  "pin12": "PIN: 2900mAh"
+	}
+]

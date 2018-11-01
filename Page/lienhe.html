@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HANB - Siêu thị điện thoại, Tablet, Phụ kiện.</title>
+    <link rel="shortcut icon" href="../Image/icon_title.png" type="image/x-icon" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../JS/jquery-3.2.1.min.js"></script>
+    <link href="../CSS/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../CSS/css.css">
+    <script language="JavaScript" src="../JS/angular.min.js"></script>
+    <script src="../JS/iphone.js"></script>
+    <script src="../JS/JS.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script src="../JS/bootstrap.js"></script>
+    <script language="JavaScript" src="../JS/angular.min.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myController">
+<header ng-include="'../Common/angular_header.html'"></header>
+<br>
+    <div class="col-md-6 mx-auto">
+        <div class="card">
+            <form>
+                <h3 style="margin-bottom: 25px; text-align: center;font-weight: bold">Kết nối khách hàng</h3>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label>Họ và tên</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label>Số điện thoại</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label>Địa chỉ</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label>Ý kiến khách hàng</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="">
+                    </div>
+                </div>
+                <button type="button" id="submit" class="text-center btn btn-primary pull-center">Gửi phản hồi</button>
+            </form>
+        </div>
+    </div></br>
+    <div class="col-md-6 mx-auto" >
+        <div class="card"  >
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2162999809893!2d108.18445441489403!3d16.054261644103132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421908f2b30a55%3A0xbc13a695653c8fbb!2zMTY5IE5ndXnhu4VuIEdp4bqjbiBUaGFuaCwgQW4gS2jDqiwgVGhhbmggS2jDqiwgxJDDoCBO4bq1bmcsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1509684016591"  height="450" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <br>
+
+<!-- Fotter -->
+        <footer ng-include="'../Common/angular_footer.html'"></footer>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+[
+	{
+	  	"ID": "001",
+	  	"Name": "iPhone 7 Plus 32GB",
+	  	"Price": "19.990.000",
+	  	"Image": "../Image/ip7_cart.png",
+	  	"screen": "Màn hình: 5.5 Inch, Retina HD",
+	  	"cpu": "CPU: Apple A10 Fusion 4 nhân",
+	  	"ram": "RAM: 3 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+	  	"pin12": "PIN: 2900mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "Samsung Galaxy Note 8",
+		"Price": "22.490.000",
+		"Image": "../Image/note8_p.png",
+		"screen": "Màn hình: 6.3 Inch, Super AMOLED",
+		"cpu": "CPU: Android 7.1 Exynos 8895 8 nhân",
+	  	"ram": "RAM: 6 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 12 MP, Selfie: 8 MP",
+	  	"pin12": "PIN: 3300mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "Sony Xperia XZ Premium",
+		"Price": "17.990.000",
+		"Image": "../Image/zxp_p.jpg",
+	  	"screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  	"cpu": "CPU: Android 7.1 Q. Snapdragon 835",
+	  	"ram": "RAM: 4 GB, ROM: 64 GB",
+	  	"camera": "Camera: 2 camera 19 MP, Selfie: 13 MP",
+	  	"pin12": "PIN: 3230 mAh"
+	},
+  	{
+		"ID": "004",
+		"Name": "Bphone 2017",
+		"Price": "9.790.000",
+		"Image": "../Image/bphone.jpg",
+	  	"screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  	"cpu": "CPU: BOS (Android 7.1)",
+	  	"ram": "RAM: 3 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 16 MP, Selfie: 8 MP",
+		"pin12": "PIN: 3000mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "iPhone X 64Gb",
+	  "Price": "31.990.000",
+	  "Image": "../Image/ipx.jpg",
+	  "screen": "Màn hình: 5.8 Inch, OLED",
+	  "cpu": "CPU: Apple A11 Bionic (iOS 11)",
+	  "ram": "RAM: 3 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+	  "pin12": "PIN: 2716mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "HTC U Ultra",
+	  "Price": "12.990.000",
+	  "Image": "../Image/htc.jpg",
+	  "screen": "Màn hình: 5.7 Inch, Supper HD",
+	  "cpu": "CPU: Android 7.1 Q. Snapdragon 821",
+	  "ram": "RAM: 3 GB, ROM: 256 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 16 MP",
+	  "pin12": "PIN: 3000mAh"
+	}
+
+]

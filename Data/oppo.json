@@ -1,0 +1,102 @@
+[
+	{
+	  "ID": "001",
+	  "Name": "OPPO A37",
+	  "Price": "3.290.000",
+	  "Image": "../Image/oppo/oppo-a37.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Android 5.1 (Lollipop)",
+	  "ram": "RAM: 2 GB, ROM: 16 GB",
+	  "camera":"Camera: 2 camera 8 MP, Selfie: 5 MP",
+	  "pin12":"PIN: 2630mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "OPPO F3 Lite (A57)",
+		"Price": "5.490.000",
+		"Image": "../Image/oppo/oppo-a57.jpg",
+	  	"screen": "Màn hình: 5.2 Inch, IPS LCD",
+	  	"cpu": "CPU: Android 6.0 (Marshmallow)",
+	  	"ram": "RAM: 3 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 13 MP, Selfie: 16 MP",
+	  	"pin12": "PIN: 2900mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "OPPO A71",
+		"Price": "4.690.000",
+		"Image": "../Image/oppo/oppo-a71.jpg",
+	  	"screen": "Màn hình: 5.2 Inch, IPS LCD",
+	  	"cpu": "CPU: Android 7.1",
+	  	"ram": "RAM: 3 GB, ROM: 16 GB",
+	  	"camera": "Camera: 2 camera 13 MP,Selfie: 5 MP",
+	  	"pin12": "PIN: 3000mAh"
+	},
+  	{
+		"ID": "004",
+		"Name": "OPPO F5",
+		"Price": "6.990.000",
+		"Image": "../Image/oppo/oppo-f5.jpg",
+	  	"screen": "Màn hình: 6 Inch, IPS LCD",
+	  	"cpu": "CPU: ColorOS 3.2 (Android 7.1)",
+	  	"ram": "RAM: 4 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 16 MP, Selfie: 20 MP",
+	  	"pin12": "PIN: 3200mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "OPPO F3 PLUS",
+	  "Price": "10.690.000",
+	  "Image": "../Image/oppo/oppo-f3s.jpg",
+	  "screen": "Màn hình: 6 Inch, IPS LCD",
+	  "cpu": "CPU: Android 6.0 (Marshmallow)",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 16 MP",
+	  "pin12": "PIN: 4000mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "OPPO F5 6GB",
+	  "Price": "7.690.000",
+	  "Image": "../Image/oppo/oppo-f56g.jpg",
+	  "screen": "Màn hình: 6 Inch, IPS LCD",
+	  "cpu": "CPU: ColorOS 3.2 (Android 7.1)",
+	  "ram": "RAM: 3 GB, ROM: 256 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 20 MP",
+	  "pin12": "PIN: 3200mAh"
+	},
+	{
+	  "ID": "007",
+	  "Name": "OPPO F3 (Neo 9)",
+	  "Price": "3.290.000",
+	  "Image": "../Image/oppo/oppo-f3.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Android OS, v5.1 (Lollipop)",
+	  "ram": "RAM: 3 GB, ROM: 256 GB",
+	  "camera": "Camera: 2 camera 8 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 2630mAh"
+	},
+	{
+	  "ID": "008",
+	  "Name": "OPPO F5 Youth",
+	  "Price": "6.190.000",
+	  "Image": "../Image/oppo/oppo-f5.jpg",
+	  "screen": "Màn hình: 6 Inch, IPS LCD",
+	  "cpu": "CPU: ColorOS 3.2 (Android 7.1)",
+	  "ram": "RAM: 3 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 16 MP",
+	  "pin12": "PIN: 3200mAh"
+	},
+	{
+	  "ID": "009",
+	  "Name": "OPPO F1 PLUS",
+	  "Price": "9.990.000",
+	  "Image": "../Image/oppo/oppo-f1s.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD HD",
+	  "cpu": "CPU: Android OS, v5.1 (Lollipop)",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 16 MP, Selfie: 13 MP",
+	  "pin12": "PIN: 2850mAh"
+	}
+]

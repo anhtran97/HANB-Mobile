@@ -1,0 +1,102 @@
+[
+	{
+	  "ID": "001",
+	  "Name": "Xiaomi Mi A1",
+	  "Price": "5.990.000",
+	  "Image": "../Image/xiaomi/xiaomia1.jpg",
+	  "screen": "Màn hình: 5.5 Inch, LTPS LCD",
+	  "cpu": "CPU: Snapdragon 625",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 3080mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "Xiaomi Redmi Note 4",
+		"Price": "4.490.000",
+		"Image": "../Image/xiaomi/xiaomiredminote4.jpg",
+	  	"screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  	"cpu": "CPU: Snapdragon 625",
+	  	"ram": "RAM: 3 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  	"pin12": "PIN: 4100mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "Xiaomi Redmi 4X",
+		"Price": "3.690.000",
+		"Image": "../Image/xiaomi/xiaomiredmi4x.jpg",
+	  	"screen": "Màn hình: 5 Inch, IPS LCD",
+	  	"cpu": "CPU: Snapdragon 435",
+	  	"ram": "RAM: 3 GB, ROM: 32 GB",
+	  	"camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  	"pin12": "PIN: 4100 mAh"
+	},
+  	{
+	  "ID": "004",
+	  "Name": "Xiaomi Redmi 4A",
+	  "Price": "2.690.000",
+	  "Image": "../Image/xiaomi/xiaomiredmi4a.jpg",
+	  "screen": "Màn hình: 5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 425",
+	  "ram": "RAM: 2 GB, ROM: 32 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 3120mAh"
+	},
+	{
+	  "ID": "005",
+	  "Name": "Xiaomi Redmi Note 5A",
+	  "Price": "3.290.000",
+	  "Image": "../Image/xiaomi/xiaomiredminote5a.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 425",
+	  "ram": "RAM: 2 GB, ROM: 16 GB",
+	  "camera": "Camera: 2 camera 13 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 3080mAh"
+	},
+	{
+	  "ID": "006",
+	  "Name": "Xiaomi Mi 6",
+	  "Price": "10.990.000",
+	  "Image": "../Image/xiaomi/XiaomiMi6.jpg",
+	  "screen": "Màn hình: 5.15 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 835",
+	  "ram": "RAM: 6 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 8 MP",
+	  "pin12": "PIN: 3350mAh"
+	},
+	{
+	  "ID": "007",
+	  "Name": "Xiaomi Mi 5X",
+	  "Price": "5.090.000",
+	  "Image": "../Image/xiaomi/xiaomi-mi-5x.jpg",
+	  "screen": "Màn hình: 5.5 Inch, LTPS IPS LCD",
+	  "cpu": "CPU: Snapdragon 625",
+	  "ram": "RAM: 4 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 5 MP",
+	  "pin12": "PIN: Đang cập nhật"
+	},
+	{
+	  "ID": "008",
+	  "Name": "Xiaomi Mi Mix 2",
+	  "Price": "9.950.000",
+	  "Image": "../Image/xiaomi/xiaomi-mi-mix2.jpg",
+	  "screen": "Màn hình: 5.99 Inch, IPS LCD",
+	  "cpu": "CPU: Snapdragon 835",
+	  "ram": "RAM: 6 GB, ROM: 64 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 5 MP",
+	  "pin12": "PIN: 3400mAh"
+	},
+	{
+	  "ID": "009",
+	  "Name": "Xiaomi Redmi Note 3 Pro",
+	  "Price": "3.090.000",
+	  "Image": "../Image/xiaomi/xiaomi-redmi-note3p.jpg",
+	  "screen": "Màn hình: 5.5 Inch, IPS LCD",
+	  "cpu": "CPU: Apple A11 Bionic 6 nhân",
+	  "ram": "RAM: 3 GB, ROM: 256 GB",
+	  "camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+	  "pin12": "PIN: Đang cập nhật"
+	}
+]

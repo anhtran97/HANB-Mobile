@@ -1,0 +1,102 @@
+[
+	{
+		"ID": "001",
+		"Name": "iPhone 7 Plus 32GB",
+		"Price": "19.990.000",
+		"Image": "../Image/iphone_p/ip7s_32g.jpg",
+		"screen": "Màn hình: 5.5 Inch, Retina HD",
+		"cpu": "CPU: Apple A10 Fusion 4 nhân",
+		"ram": "RAM: 3 GB, ROM: 32 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 2900mAh"
+
+	},
+	{
+		"ID": "002",
+		"Name": "iPhone 8 64GB",
+		"Price": "20.990.000",
+		"Image": "../Image/iphone_p/ip8_64g.png",
+	    "screen": "Màn hình: 4.7 Inch, IPS LCD",
+		"cpu": "CPU: Apple A11 Bionic 6 nhân",
+		"ram": "RAM: 2 GB, ROM: 64 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 1821mAh"
+	},
+	{
+		"ID": "003",
+		"Name": "iPhone 5S 16GB",
+		"Price": "5.990.000",
+		"Image": "../Image/iphone_p/ip5s_16g.jpg",
+		"screen": "Màn hình: 4 Inch, IPS LCD",
+		"cpu": "CPU: Apple A7 2 nhân",
+		"ram": "RAM: 1 GB, ROM: 64 GB",
+		"camera": "Camera: 2 camera 8 MP, Selfie: 1.2 MP",
+		"pin12": "PIN: 1560mAh"
+	},
+  	{
+		"ID": "004",
+		"Name": "iPhone 6s Plus 32GB",
+		"Price": "14.490.000",
+		"Image": "../Image/iphone_p/ip6s_32g.jpg",
+		"screen": "Màn hình: 5.5 Inch, IPS LCD",
+		"cpu": "CPU: Apple A9 (iOS 10)",
+		"ram": "RAM: 2 GB, ROM: 32 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 5 MP",
+		"pin12": "PIN: 2750mAh"
+	},
+	{
+		"ID": "005",
+		"Name": "iPhone 7 32GB",
+		"Price": "15.990.000",
+		"Image": "../Image/iphone_p/ip7_32g.jpg",
+		"screen": "Màn hình: 4.7 Inch, IPS LCD",
+		"cpu": "CPU: Apple A10 Fusion 4 nhân",
+		"ram": "RAM: 2 GB, ROM: 32 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 1960mAh"
+	},
+	{
+		"ID": "006",
+		"Name": "iPhone 6s 128GB",
+		"Price": "16.990.000",
+		"Image": "../Image/iphone_p/ip6s_128g.jpg",
+		"screen": "Màn hình: 4.7 Inch, IPS LCD",
+		"cpu": "CPU: Apple A9 (iOS 10)",
+		"ram": "RAM: 3 GB, ROM: 128 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 5 MP",
+		"pin12": "PIN: 1715mAh"
+	},
+	{
+		"ID": "007",
+		"Name": "iPhone 8 Plus 64GB",
+		"Price": "23.990.000",
+		"Image": "../Image/iphone_p/ip8s_64g.jpg",
+		"screen": "Màn hình: 5.5 Inch, IPS LCD",
+		"cpu": "CPU: Apple A11 Bionic (iOS 11)",
+		"ram": "RAM: 3 GB, ROM: 64 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 2691mAh"
+	},
+	{
+		"ID": "008",
+		"Name": "iPhone X 64GB",
+		"Price": "27.390.000",
+		"Image": "../Image/ipx.jpg",
+		"screen": "Màn hình: 5.8 Inch, OLED",
+		"cpu": "CPU: Apple A11 Bionic (iOS 11)",
+		"ram": "RAM: 3 GB, ROM: 64 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 2716mAh"
+	},
+	{
+		"ID": "009",
+		"Name": "iPhone X 256GB",
+		"Price": "34.990.000",
+		"Image": "../Image/iphone_p/iphonex.jpg",
+		"screen": "Màn hình: 5.8 Inch, OLED",
+		"cpu": "CPU: Apple A11 Bionic (iOS 11)",
+		"ram": "RAM: 3 GB, ROM: 64 GB",
+		"camera": "Camera: 2 camera 12 MP, Selfie: 7 MP",
+		"pin12": "PIN: 2716mAh"
+	}
+]
